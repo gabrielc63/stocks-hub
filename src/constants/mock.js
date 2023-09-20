@@ -1,3 +1,5 @@
+import React from "react";
+
 export const mockSearchResults = {
   count: 4,
   result: [
